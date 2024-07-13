@@ -1,4 +1,4 @@
-FROM ruby:3.1.2
+FROM ruby:3.1
 LABEL maintainer="Max Burnette <mburnet2@illinois.edu>, Rob Kooper <kooper@illinois.edu>"
 
 # arguments that are added at the bottom of BETY
